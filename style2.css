@@ -125,3 +125,10 @@ li:hover{
 main{
     background-color: #1ed7607d;
 }
+
+@media only screen and (max-width: 800px) {
+
+    .SIGNUP{
+        display: none;
+    }
+}

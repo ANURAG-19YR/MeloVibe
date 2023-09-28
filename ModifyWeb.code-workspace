@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../covers"
+		},
+		{
+			"path": "../songs"
+		}
+	],
+	"settings": {}
+}

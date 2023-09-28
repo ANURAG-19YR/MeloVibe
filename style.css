@@ -213,4 +213,6 @@ li:hover{
         background-color: #b0aeae6b;
         border: 1px solid rgb(80, 79, 79);
     }
+    .SIGNUP{
+        display:none;
 }

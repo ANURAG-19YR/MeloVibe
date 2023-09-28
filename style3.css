@@ -157,3 +157,10 @@ li:hover {
     color: #ffffff;
     text-decoration: none;
 }
+
+@media only screen and (max-width: 800px) {
+
+    .SIGNUP{
+        display: none;
+    }
+}
